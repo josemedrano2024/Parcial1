@@ -1,2 +1,1 @@
 # Parcial1
-Integrante
